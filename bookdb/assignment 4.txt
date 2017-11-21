@@ -1,0 +1,16 @@
+Assignment 4:  
+ Create a Menu based Book store information system, where the basic functionality of the system includes following menus :
+        i> Book Information Insertion.
+       ii> Book Information modification
+       iii> Book information deletion.
+       iV) Search Book having sub menu on search by type / sub type/ name/ author to search books store by the system.
+
+       Essentially, click on each and every menu should have a gui, ( i.e. one window) . Book information that needs to be inserted via the insertion form, or the information that can modified via modification form is as follows :
+
+       Book Name : text field
+       Author : List box
+       Edition : text field
+       Type : List box
+       SubType : List box
+       Book ID : Label [ This alpha numeric text will be automatically generated when the user has filled up the previous fields]
+       Price : numeric  field [ validation of numeric field is required ] 
